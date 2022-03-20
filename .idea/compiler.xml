@@ -10,5 +10,11 @@
         <module name="gittest2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gittest2" options="" />
+    </option>
   </component>
 </project>
